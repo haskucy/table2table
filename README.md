@@ -1,7 +1,3 @@
-Berikut adalah deskripsi singkat yang dapat digunakan untuk repositori GitHub aplikasi **Table2Table**:
-
----
-
 # Table2Table
 
 **Table2Table** adalah aplikasi web berbasis AI yang dirancang untuk mengotomatiskan transformasi data tabel. Dengan memanfaatkan teknologi Large Language Model (LLM) dan Retrieval-Augmented Generation (RAG), aplikasi ini memungkinkan pengguna untuk mengunggah file Excel dan CSV, kemudian mentransformasi data ke dalam format yang diinginkan hanya dengan memberikan konteks teks. 
